@@ -8,7 +8,7 @@ This collect all the data of Dell laptop.
 ---
 ## Contributors
 
--Niranjan Bekou <https://www.facebook.com/Niranjan2054>
+-Niranjan Bekou <bekojuniranjan@gmail.com>
 
 ---
 
