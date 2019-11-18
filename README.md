@@ -7,5 +7,5 @@ This collect all the data of Dell laptop.
 
 ---
 
-# Liscence and Copyright
+## Liscence and Copyright
 ©Niranjan Bekoju
