@@ -4,3 +4,8 @@
 This is the basic web scrapping that collect data from the Pricebaba.com
 
 This collect all the data of Dell laptop.
+
+---
+
+##Liscence and Copyright
+© Niranjan Bekoju
